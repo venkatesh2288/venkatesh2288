@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=venkatesh2288&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh2288" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Full Width GIF" width="100%" />
 
 <h2 align="left">⚡ Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh2288&theme=gotham"/>
