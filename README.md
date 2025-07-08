@@ -1,6 +1,11 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Venkatesh<br><br>🎓 19 y/o B.Tech Artificial Intelligence & Data Science (2027)  <br>🧠 Passionate about Machine Learning, Deep Learning, and Data Analysis  <br>📊 Skilled in data preprocessing and exploratory data work (beginner–intermediate level)  <br>🌐 I also know how to build clean and functional websites using HTML, CSS, Flask  <br>🤖 I create Generative AI and Agentic AI apps with tools like LangChain, LlamaIndex, APIs  <br>🚀 Currently exploring cool AI SaaS ideas and building useful tools!<br><br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh2288&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh2288" /> </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=venkatesh2288&theme=gotham"/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__v3nkat__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateshsivapragash) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Soona_paana69) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkateshsivapragash@gmail.com) 
@@ -18,5 +23,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=venkatesh2288&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
