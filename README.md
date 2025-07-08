@@ -15,10 +15,31 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venkatesh2288&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=venkatesh2288&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2288&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+
+
+<h2>📊 GitHub Stats:</h2>
+
+<table>
+<tr>
+  <td valign="top">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatesh2288&theme=gotham&hide_border=false&include_all_commits=true&count_private=false"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=venkatesh2288&theme=gotham&hide_border=false"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh2288&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+  </td>
+  <td valign="top" align="right">
+      <div style="padding-left: 300px;">
+        <img src="assets/right-side.gif" alt="Right Side GIF" width="350"/>
+    </div>
+  </td>
+</tr>
+</table>
+
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=venkatesh2288&theme=radical&no-frame=false&no-bg=true&margin-w=4)
